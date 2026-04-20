@@ -1,0 +1,14 @@
+# checkers-user 6.0 NS6534 2264 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: checkers
+- flavor: checkers-user
+- release: 7.1.2
+- id: NS6534
+- incremental: 0002919815300
+- tags: amz-p,release-keys
+- fingerprint: Amazon/checkers/checkers:6.0/NS6534/2264N:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: checkers-user-6.0-NS6534-2264-amz-p,release-keys
+- repo: amazon_checkers_dump
