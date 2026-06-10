@@ -1,0 +1,14 @@
+# checkers-user 6.0 NS6573 7575 amz-p,release-keys
+- manufacturer: amazon
+- platform: mt8163
+- codename: checkers
+- flavor: checkers-user
+- release: 7.1.2
+- id: NS6573
+- incremental: 0012920395652
+- tags: amz-p,release-keys
+- fingerprint: Amazon/checkers/checkers:6.0/NS6573/7575N:user/amz-p,release-keys
+- is_ab: false
+- brand: Amazon
+- branch: checkers-user-6.0-NS6573-7575-amz-p,release-keys
+- repo: amazon_checkers_dump
