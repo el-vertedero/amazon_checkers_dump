@@ -1,0 +1,5 @@
+service dacd /system/bin/dacd
+    user dacd
+    group dacd
+    class main
+
